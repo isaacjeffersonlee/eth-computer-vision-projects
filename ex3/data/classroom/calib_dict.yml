@@ -1,0 +1,9 @@
+# Calibration parameters
+# Provided to students
+height: 240.
+width: 320.
+aperture_h: 24.
+aperture_w: 32.
+xl_c: 160.
+xr_c: 160.
+y_c: 120.
